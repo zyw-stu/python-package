@@ -63,7 +63,7 @@
       - [save/load](#saveload)
 ## Numpy—— 科学计算库
 
-安装numpy库 :`import numpy`
+安装numpy库 :`pip install numpy`
 
 ~~~python
 import numpy as np   //引入库
